@@ -1,1 +1,2 @@
-test_data = [100,200,300]
+test_data_huy = [100,200,300]
+test_data_vu = [a,b,c]
